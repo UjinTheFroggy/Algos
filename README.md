@@ -1,6 +1,6 @@
 # Algos for examination
 ### List:
-- [] Bellman-Ford Algorithm
+- [ ] Bellman-Ford Algorithm
 - [x] BFS
 - [x] DFS
 - [x] Binary search
@@ -10,6 +10,6 @@
 - [x] Merge sort
 - [x] Quick sort
 - [x] Selection sort
-- [] Dijkstra’s algorithm
-- [] Euclidean algorithm
-- [] Huffman coding
+- [ ] Dijkstra’s algorithm
+- [ ] Euclidean algorithm
+- [ ] Huffman coding
